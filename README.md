@@ -1,3 +1,3 @@
 # gatsby-site-project
 
-Project to understand Gatsby, basic website so far.. more to come 
+using Gatsby for rendering, this app renders a list of cards containing image and photography info from the Pexels API
